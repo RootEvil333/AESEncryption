@@ -92,3 +92,6 @@ This project can be used to study:
 ## License
 
 This project is provided for educational purposes only. Use it at your own risk.
+
+
+Made with <3 by RootEvil333
